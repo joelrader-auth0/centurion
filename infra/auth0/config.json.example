@@ -1,0 +1,8 @@
+{
+  "AUTH0_DOMAIN": "centurion.us.auth0.com",
+  "AUTH0_CLIENT_ID": "ezFa689r1XFkUKy13AxrIg9AbX2TiiqA",
+  "AUTH0_CLIENT_SECRET": "YOUR_CLIENT_SECRET",
+  "AUTH0_KEYWORD_REPLACE_MAPPINGS": { "AUTH0_TENANT_NAME": "centurion" },
+  "AUTH0_ALLOW_DELETE": false,
+  "AUTH0_EXCLUDED_RULES": [ "rule-1-name" ]
+}
